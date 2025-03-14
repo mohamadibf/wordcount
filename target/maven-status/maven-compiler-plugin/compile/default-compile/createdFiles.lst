@@ -1,0 +1,13 @@
+hadoop/mapreduce/tp1/VisitorsPerStore2022$StoreMapper.class
+hadoop/mapreduce/Main.class
+hadoop/mapreduce/tp1/VisitorsPerStore$UniqueVisitorsReducer.class
+hadoop/mapreduce/tp1/StoreVisitsPerUser.class
+hadoop/mapreduce/tp1/VisitorsPerStore$StoreMapper.class
+hadoop/mapreduce/tp1/IntSumReducer.class
+hadoop/mapreduce/tp1/TokenizerMapper.class
+hadoop/mapreduce/tp1/VisitorsPerStore2022.class
+hadoop/mapreduce/tp1/StoreVisitsPerUser$UniqueStoreReducer.class
+hadoop/mapreduce/tp1/WordCount.class
+hadoop/mapreduce/tp1/StoreVisitsPerUser$VisitMapper.class
+hadoop/mapreduce/tp1/VisitorsPerStore.class
+hadoop/mapreduce/tp1/VisitorsPerStore2022$UniqueVisitorsReducer.class
